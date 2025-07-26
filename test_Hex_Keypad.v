@@ -1,6 +1,4 @@
 `timescale 1ns / 1ps
-
-
 module test_Hex_Keypad ();
     wire            [3:0] Code;
     wire            Valid;
